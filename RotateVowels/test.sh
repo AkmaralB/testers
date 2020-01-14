@@ -1,4 +1,9 @@
 go build
+echo "Arguments: """
+echo "Expected result:"
+echo 
+echo "Your result:    "; ./RotateVowels ""
+echo
 echo "Arguments: "Hello World""
 echo "Expected result:"
 echo "Hollo Werld"
