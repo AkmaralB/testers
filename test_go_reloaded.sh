@@ -247,20 +247,6 @@ echo
 echo
 echo
 echo
-echo ListRemoveIf
-echo
-cd ./ListRemoveIf
-./test.sh
-cd ..
-echo
-echo
-echo
-echo
-echo
-echo
-echo
-echo
-echo
 cd ..
 cd BTrees
 echo BTreeTransplant
