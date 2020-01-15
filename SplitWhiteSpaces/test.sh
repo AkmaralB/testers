@@ -22,6 +22,6 @@ echo "Your result:    "; ./main  "Wilhelm Schickard designed and constructed the
 echo
 echo "Expected result:"
 echo "[In 1673, Gottfried Leibniz demonstrated a digital mechanical calculator,]"
-echo "Your result:    "; ./main  " In 1673, Gottfried Leibniz demonstrated a digital mechanical calculator,"
+echo "Your result:    "; ./main  "In 1673, Gottfried Leibniz demonstrated a digital mechanical calculator,"
 echo
 rm main
